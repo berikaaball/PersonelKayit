@@ -1,0 +1,12 @@
+C:\Users\BERIKA\Desktop\dersler\udemyMuratYücedağ\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.csproj.AssemblyReference.cache
+C:\Users\BERIKA\Desktop\dersler\udemyMuratYücedağ\PersonelKayit\PersonelKayit\bin\Debug\PersonelKayit.exe.config
+C:\Users\BERIKA\Desktop\dersler\udemyMuratYücedağ\PersonelKayit\PersonelKayit\bin\Debug\PersonelKayit.exe
+C:\Users\BERIKA\Desktop\dersler\udemyMuratYücedağ\PersonelKayit\PersonelKayit\bin\Debug\PersonelKayit.pdb
+C:\Users\BERIKA\Desktop\dersler\udemyMuratYücedağ\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.AnaForm.resources
+C:\Users\BERIKA\Desktop\dersler\udemyMuratYücedağ\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.FormGrafik.resources
+C:\Users\BERIKA\Desktop\dersler\udemyMuratYücedağ\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.FormIstatistik.resources
+C:\Users\BERIKA\Desktop\dersler\udemyMuratYücedağ\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.Properties.Resources.resources
+C:\Users\BERIKA\Desktop\dersler\udemyMuratYücedağ\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.csproj.GenerateResource.cache
+C:\Users\BERIKA\Desktop\dersler\udemyMuratYücedağ\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.csproj.CoreCompileInputs.cache
+C:\Users\BERIKA\Desktop\dersler\udemyMuratYücedağ\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.exe
+C:\Users\BERIKA\Desktop\dersler\udemyMuratYücedağ\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.pdb
