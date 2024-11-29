@@ -10,3 +10,4 @@ C:\Users\BERIKA\Desktop\dersler\udemyMuratYücedağ\PersonelKayit\PersonelKayit\
 C:\Users\BERIKA\Desktop\dersler\udemyMuratYücedağ\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.csproj.CoreCompileInputs.cache
 C:\Users\BERIKA\Desktop\dersler\udemyMuratYücedağ\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.exe
 C:\Users\BERIKA\Desktop\dersler\udemyMuratYücedağ\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.pdb
+C:\Users\BERIKA\Desktop\dersler\udemyMuratYücedağ\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.Giris.resources

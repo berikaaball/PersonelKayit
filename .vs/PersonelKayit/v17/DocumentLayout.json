@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\BERIKA\\Desktop\\dersler\\udemyMuratY\u00FCceda\u011F\\PersonelKayit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5EC01D1-99B2-4FDE-945C-5212ED45F26C}|PersonelKayit\\PersonelKayit.csproj|c:\\users\\berika\\desktop\\dersler\\udemymuraty\u00FCceda\u011F\\personelkayit\\personelkayit\\formgrafik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D5EC01D1-99B2-4FDE-945C-5212ED45F26C}|PersonelKayit\\PersonelKayit.csproj|solutionrelative:personelkayit\\formgrafik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D5EC01D1-99B2-4FDE-945C-5212ED45F26C}|PersonelKayit\\PersonelKayit.csproj|c:\\users\\berika\\desktop\\dersler\\udemymuraty\u00FCceda\u011F\\personelkayit\\personelkayit\\vtislem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EC01D1-99B2-4FDE-945C-5212ED45F26C}|PersonelKayit\\PersonelKayit.csproj|solutionrelative:personelkayit\\vtislem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5EC01D1-99B2-4FDE-945C-5212ED45F26C}|PersonelKayit\\PersonelKayit.csproj|c:\\users\\berika\\desktop\\dersler\\udemymuraty\u00FCceda\u011F\\personelkayit\\personelkayit\\formgrafik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5EC01D1-99B2-4FDE-945C-5212ED45F26C}|PersonelKayit\\PersonelKayit.csproj|solutionrelative:personelkayit\\formgrafik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5EC01D1-99B2-4FDE-945C-5212ED45F26C}|PersonelKayit\\PersonelKayit.csproj|C:\\Users\\BERIKA\\Desktop\\dersler\\udemyMuratY\u00FCceda\u011F\\PersonelKayit\\personelkayit\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EC01D1-99B2-4FDE-945C-5212ED45F26C}|PersonelKayit\\PersonelKayit.csproj|solutionrelative:personelkayit\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EC01D1-99B2-4FDE-945C-5212ED45F26C}|PersonelKayit\\PersonelKayit.csproj|C:\\Users\\BERIKA\\Desktop\\dersler\\udemyMuratY\u00FCceda\u011F\\PersonelKayit\\personelkayit\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EC01D1-99B2-4FDE-945C-5212ED45F26C}|PersonelKayit\\PersonelKayit.csproj|solutionrelative:personelkayit\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EC01D1-99B2-4FDE-945C-5212ED45F26C}|PersonelKayit\\PersonelKayit.csproj|C:\\Users\\BERIKA\\Desktop\\dersler\\udemyMuratY\u00FCceda\u011F\\PersonelKayit\\personelkayit\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5EC01D1-99B2-4FDE-945C-5212ED45F26C}|PersonelKayit\\PersonelKayit.csproj|solutionrelative:personelkayit\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EC01D1-99B2-4FDE-945C-5212ED45F26C}|PersonelKayit\\PersonelKayit.csproj|C:\\Users\\BERIKA\\Desktop\\dersler\\udemyMuratY\u00FCceda\u011F\\PersonelKayit\\personelkayit\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5EC01D1-99B2-4FDE-945C-5212ED45F26C}|PersonelKayit\\PersonelKayit.csproj|solutionrelative:personelkayit\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,27 +34,65 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormGrafik.cs",
-              "DocumentMoniker": "C:\\Users\\BERIKA\\Desktop\\dersler\\udemyMuratY\u00FCceda\u011F\\PersonelKayit\\PersonelKayit\\FormGrafik.cs",
-              "RelativeDocumentMoniker": "PersonelKayit\\FormGrafik.cs",
-              "ToolTip": "C:\\Users\\BERIKA\\Desktop\\dersler\\udemyMuratY\u00FCceda\u011F\\PersonelKayit\\PersonelKayit\\FormGrafik.cs",
-              "RelativeToolTip": "PersonelKayit\\FormGrafik.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAmwCwAAAAqAAAA",
+              "DocumentIndex": 2,
+              "Title": "AnaForm.cs",
+              "DocumentMoniker": "C:\\Users\\BERIKA\\Desktop\\dersler\\udemyMuratY\u00FCceda\u011F\\PersonelKayit\\PersonelKayit\\AnaForm.cs",
+              "RelativeDocumentMoniker": "PersonelKayit\\AnaForm.cs",
+              "ToolTip": "C:\\Users\\BERIKA\\Desktop\\dersler\\udemyMuratY\u00FCceda\u011F\\PersonelKayit\\PersonelKayit\\AnaForm.cs",
+              "RelativeToolTip": "PersonelKayit\\AnaForm.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAD4vxwAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T21:34:35.183Z",
+              "WhenOpened": "2024-11-27T23:17:39.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FormGrafik.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\BERIKA\\Desktop\\dersler\\udemyMuratY\u00FCceda\u011F\\PersonelKayit\\PersonelKayit\\FormGrafik.cs",
-              "RelativeDocumentMoniker": "PersonelKayit\\FormGrafik.cs",
-              "ToolTip": "C:\\Users\\BERIKA\\Desktop\\dersler\\udemyMuratY\u00FCceda\u011F\\PersonelKayit\\PersonelKayit\\FormGrafik.cs [Design]",
-              "RelativeToolTip": "PersonelKayit\\FormGrafik.cs [Design]",
+              "Title": "VTIslem.cs",
+              "DocumentMoniker": "C:\\Users\\BERIKA\\Desktop\\dersler\\udemyMuratY\u00FCceda\u011F\\PersonelKayit\\PersonelKayit\\VTIslem.cs",
+              "RelativeDocumentMoniker": "PersonelKayit\\VTIslem.cs",
+              "ToolTip": "C:\\Users\\BERIKA\\Desktop\\dersler\\udemyMuratY\u00FCceda\u011F\\PersonelKayit\\PersonelKayit\\VTIslem.cs",
+              "RelativeToolTip": "PersonelKayit\\VTIslem.cs",
+              "ViewState": "AQIAAAgAAABIMTMzMzMuwBYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T21:22:51.709Z",
+              "WhenOpened": "2024-11-27T23:06:42.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Giris.cs",
+              "DocumentMoniker": "C:\\Users\\BERIKA\\Desktop\\dersler\\udemyMuratY\u00FCceda\u011F\\PersonelKayit\\PersonelKayit\\Giris.cs",
+              "RelativeDocumentMoniker": "PersonelKayit\\Giris.cs",
+              "ToolTip": "C:\\Users\\BERIKA\\Desktop\\dersler\\udemyMuratY\u00FCceda\u011F\\PersonelKayit\\PersonelKayit\\Giris.cs",
+              "RelativeToolTip": "PersonelKayit\\Giris.cs",
+              "ViewState": "AQIAABQAAAB8mZmZmZk5wCYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:03:46.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Giris.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BERIKA\\Desktop\\dersler\\udemyMuratY\u00FCceda\u011F\\PersonelKayit\\PersonelKayit\\Giris.cs",
+              "RelativeDocumentMoniker": "PersonelKayit\\Giris.cs",
+              "ToolTip": "C:\\Users\\BERIKA\\Desktop\\dersler\\udemyMuratY\u00FCceda\u011F\\PersonelKayit\\PersonelKayit\\Giris.cs [Design]",
+              "RelativeToolTip": "PersonelKayit\\Giris.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T22:17:35.706Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnaForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BERIKA\\Desktop\\dersler\\udemyMuratY\u00FCceda\u011F\\PersonelKayit\\PersonelKayit\\AnaForm.cs",
+              "RelativeDocumentMoniker": "PersonelKayit\\AnaForm.cs",
+              "ToolTip": "C:\\Users\\BERIKA\\Desktop\\dersler\\udemyMuratY\u00FCceda\u011F\\PersonelKayit\\PersonelKayit\\AnaForm.cs [Design]",
+              "RelativeToolTip": "PersonelKayit\\AnaForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T22:17:21.398Z",
               "EditorCaption": " [Design]"
             }
           ]
